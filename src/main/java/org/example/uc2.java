@@ -1,4 +1,4 @@
-package org.example;
+
 import java.util.Random;
 public class uc2 {
     public static class TossResult {
