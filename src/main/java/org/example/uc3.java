@@ -1,8 +1,6 @@
-package org.example;
 
-public class uc3 import java.util.Scanner;
-
-public class UC3ReadUserSlot {
+import java.util.Scanner;
+public class uc3 {
     public static int readSlot(Scanner scanner) {
         return scanner.nextInt();
     }
@@ -13,5 +11,4 @@ public class UC3ReadUserSlot {
         int slot = readSlot(scanner);
         System.out.println("You entered: " + slot);
     }
-}{
 }

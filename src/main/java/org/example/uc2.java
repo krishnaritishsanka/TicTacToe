@@ -1,4 +1,4 @@
-
+package org.example;
 import java.util.Random;
 public class uc2 {
     public static class TossResult {
@@ -28,5 +28,4 @@ public class uc2 {
         System.out.println("User Symbol: " + result.userSymbol);
         System.out.println("Computer Symbol: " + result.computerSymbol);
     }
-}{
 }
